@@ -16,7 +16,7 @@ For me, the most interesting part was the recommendation engine. I wanted the qu
 
 ## Screenshots and video
 
-[Watch the original screen recording](https://github.com/Evme22/flora-sense/releases/tag/demo-2026-11) (1 min 40 sec, no narration). The link will be available after the video is attached to the GitHub release.
+[Watch the original screen recording](https://github.com/Evme22/flora-sense/releases/tag/demo-2026-11) (1 min 40 sec, no narration).
 
 | Bouquet quiz | Recommendation results |
 | :---: | :---: |
