@@ -1,5 +1,7 @@
 # Publishing checklist (maintainer only)
 
+**English** | [Русский](PUBLISHING.ru.md)
+
 This folder is a **new repository**, not a branch or a fork of the private commercial codebase. Never use the private repository's `.git` directory or history.
 
 1. Check README claims, screenshots, and the code before publication. Make sure the commissioned shop's branding and images may be showcased and you own the published algorithm/source.

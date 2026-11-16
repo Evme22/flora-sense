@@ -1,5 +1,7 @@
 # System architecture and public-demo boundaries
 
+**English** | [Русский](architecture.ru.md)
+
 ## Full application (private)
 
 - **Frontend**: React + Vite; product catalog, shopping flows, quiz, results, admin dashboard.
